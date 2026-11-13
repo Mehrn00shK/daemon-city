@@ -10,3 +10,9 @@ A Weimar introduction-project city where 20 famous architects and 17 philosopher
 - `There is a city where famous architects and philosophers live alongside ordinary people.docx`: the project text.
 
 The Rhino file (`Daemon_City.3dm`) is not in the repo because of its size. Run `daemon_city.py` in Rhino 8 to rebuild it.
+
+## Live website
+
+https://mehrn00shk.github.io/daemon-city/
+
+GitHub Pages serves the `docs/` folder. `web/build.py` regenerates it (a standalone copy of the page that loads the `.glb` files directly), so after a change run `python build.py`, then commit and push.
