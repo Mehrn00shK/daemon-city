@@ -45,13 +45,7 @@ In this city, famous architects and philosophers live among ordinary people, eac
 
 ### One visitor
 
-Lena is a second-year architecture student with a jury at nine tomorrow. Her project borrows from Mies van der Rohe, and she still can't explain "less is more" without stumbling. At midnight she walks past Mies's house on her way home, hoping that looking at it will help.
-
-The lights are on, but Mies has gone out. Inside, something is moving. Wall by wall, the glass pavilion comes apart and goes back up covered in cornices, columns and gold. A thin voice says, cheerfully, "When you say less, I hear more." It is Antonym, finishing its homework.
-
-Lena stays and watches. Mies comes back, stops at the door and puts his head in his hands. Antonym has already gone to choose its next architect.
-
-At first Lena laughs. Then she feels a little uneasy, because the overloaded house shows her exactly what was missing before. Every ornament marks a place where Mies had chosen nothing. On the walk home she rewrites her opening sentence. At the jury she doesn't explain "less". She describes everything that isn't there.
+On a sunny morning, Le Corbusier steps out of his white villa, and a small green figure waves him goodbye from the garden. It is Literal, a daemon who has read every one of his books with deep admiration. The trouble is that Literal understands everything wrong: it takes every sentence exactly at its word. Today it has decided to make Le Corbusier happy. “A house is a machine for living in,” he once wrote, so Literal gets to work. While the architect walks through town, it bolts wheels to the pilotis, fits gears and pistons into the clean walls, covers the facade in rivets, raises smokestacks over the roof garden and, as a final gift, plants a giant wind-up key on top. In the afternoon, Le Corbusier comes home. The street smells of oil, the house hisses and creaks, and the neighbours are taking photos. He stands at the gate, speechless, in front of a house that contradicts every theory he ever wrote. Literal waits proudly beside the door, sure it finally understood him. And Le Corbusier, for the first time, wonders what his words really meant.
 
 ## How to use it
 
